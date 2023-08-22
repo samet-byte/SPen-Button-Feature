@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">S Pen Button Feature</string>
+
+    <string name="pressed">PRESSED</string>
+    <string name="released">RELEASED</string>
+
+    <string name="single">single</string>
+    <string name="right">right</string>
+    <string name="left">left</string>
+    <string name="restart">restart</string>
+
+
+</resources>
